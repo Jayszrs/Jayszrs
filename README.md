@@ -4,101 +4,140 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,100:0d1117&height=230&section=header&text=JAY%20SZRS&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Vibe%20Code%20Programmer%20%7C%20Software%20Engineering%20%7C%20Informatics%20Student&descAlignY=58&descSize=16"/>
 
-<br>
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=00FF88&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Jaelani+Surya+Saputra+SZRS;Informatics+Student+at+Universitas+Bani+Saleh;Software+Engineering+Enthusiast;Content+Creator+%7C+Graphic+Designer+%7C+Video+Editor;Cyber+Security+%7C+Network+%26+System+Protection;Blockchain+%26+Crypto+Builder" alt="Typing SVG"/>
+<div align="center">
 
-<br><br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=00FF88&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Jaelani+Surya+Saputra+SZRS;Informatics+Student+at+Universitas+Bani+Saleh;Software+Engineering+Enthusiast;Content+Creator+%7C+Graphic+Designer+%7C+Video+Editor;Cyber+Security+%7C+Network+%26+System+Protection;Blockchain+%26+Crypto+Builder)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=Jayszrs&label=PROFILE+VIEWS&style=for-the-badge&color=00ff88"/>
-<img src="https://img.shields.io/github/followers/Jayszrs?style=for-the-badge&color=00ff88&labelColor=0d1117"/>
-<img src="https://img.shields.io/github/stars/Jayszrs?style=for-the-badge&color=00ff88&labelColor=0d1117"/>
+</div>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Jayszrs&label=PROFILE+VIEWS&style=for-the-badge&color=00ff88)
+![GitHub followers](https://img.shields.io/github/followers/Jayszrs?style=for-the-badge&color=00ff88&labelColor=0d1117)
+![GitHub Stars](https://img.shields.io/github/stars/Jayszrs?style=for-the-badge&color=00ff88&labelColor=0d1117)
 
 </div>
 
 ---
 
+# 🕹️ Pixel System Loading
+
 <div align="center">
 
-# 👾 Pixel Man Loading
+<pre>
+[ JAY SZRS SYSTEM BOOTING... ]
 
-<img src="./assets/pacman.gif" alt="Pacman Pixel Animation" width="100%"/>
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100%
+
+> Initializing Developer Profile...
+> Loading Software Engineering Mode...
+> Activating Cyber Security Mindset...
+> Rendering Creative Identity...
+> Connecting to GitHub Universe...
+> Status: ONLINE
+</pre>
 
 </div>
 
 ---
 
+# 👾 Pixel Man Coding
+
 <div align="center">
+
+<pre>
+        ▄▀▀▀▀▀▀▀▄
+       █  ▄   ▄  █
+       █    ▀    █
+       █  ▀▄▄▄▀  █
+        ▀▄▄▄▄▄▄▄▀
+          ██  ██
+       ███████████
+          ██  ██
+          ██  ██
+         ▄██  ██▄
+
+     PIXEL MAN IS CODING...
+</pre>
+
+</div>
+
+---
 
 # 💫 About Me
 
-</div>
+<div align="center">
 
-<table align="center">
+<table>
 <tr>
 <td>
 
-<strong>Name</strong> : Jaelani Surya Saputra SZRS  
-<strong>Username</strong> : Jayszrs  
-<strong>Role</strong> : Informatics Student | Software Engineering Enthusiast  
-<strong>University</strong> : Universitas Bani Saleh  
-<strong>Location</strong> : Indonesia  
+```js
+const JaySzrs = {
+  name: "Jaelani Surya Saputra SZRS",
+  username: "Jayszrs",
+  role: "Informatics Student | Software Engineering Enthusiast",
+  university: "Universitas Bani Saleh",
+  location: "Indonesia",
+  identity: [
+    "Content Creator",
+    "Graphic Designer",
+    "Video Editor",
+    "Software Engineering Learner",
+    "Cyber Security Enthusiast",
+    "Network & System Protection Learner",
+    "Blockchain & Crypto Builder"
+  ],
+  currentFocus: [
+    "Building digital portfolio",
+    "Developing web-based applications",
+    "Learning full stack development",
+    "Exploring cyber security and networking",
+    "Creating digital products with technology and design"
+  ],
+  motto: "Code the future, design the identity, secure the system."
+};
+```
 
 </td>
 </tr>
 </table>
 
-<br>
+</div>
 
-🔭 I’m currently working on building my <strong>digital portfolio</strong>, developing <strong>web-based applications</strong>, and exploring <strong>software engineering projects</strong>.
+🔭 I’m currently working on building my **digital portfolio**, developing **web-based applications**, and exploring **software engineering projects**.
 
-👯 I’m looking to collaborate on <strong>open source</strong>, <strong>web development</strong>, <strong>UI/UX design</strong>, <strong>cyber security learning projects</strong>, and <strong>creative digital products</strong>.
+👯 I’m looking to collaborate on **open source**, **web development**, **UI/UX design**, **cyber security learning projects**, and **creative digital products**.
 
-🤝 I’m looking for help with <strong>advanced software architecture</strong>, <strong>full stack development</strong>, <strong>cyber security practices</strong>, <strong>network protection</strong>, and <strong>blockchain systems</strong>.
+🤝 I’m looking for help with **advanced software architecture**, **full stack development**, **cyber security practices**, **network protection**, and **blockchain systems**.
 
-🌱 I’m currently learning <strong>Full Stack Web Development</strong>, <strong>Java Programming</strong>, <strong>React.js</strong>, <strong>PHP</strong>, <strong>MySQL</strong>, <strong>Cyber Security</strong>, <strong>Network & System Protection</strong>, <strong>Blockchain</strong>, and <strong>Crypto Development</strong>.
+🌱 I’m currently learning **Full Stack Web Development**, **Java Programming**, **React.js**, **PHP**, **MySQL**, **Cyber Security**, **Network & System Protection**, **Blockchain**, and **Crypto Development**.
 
-💬 Ask me about <strong>Web Development</strong>, <strong>Software Engineering</strong>, <strong>UI/UX Design</strong>, <strong>Graphic Design</strong>, <strong>Video Editing</strong>, <strong>Content Creation</strong>, <strong>Cyber Security Basics</strong>, and <strong>Networking Fundamentals</strong>.
+💬 Ask me about **Web Development**, **Software Engineering**, **UI/UX Design**, **Graphic Design**, **Video Editing**, **Content Creation**, **Cyber Security Basics**, and **Networking Fundamentals**.
 
-⚡ Fun fact: I’m not only writing code, I’m also building a <strong>digital identity</strong> through technology, design, security, and creativity.
+⚡ Fun fact: I’m not only writing code, I’m also building a **digital identity** through technology, design, security, and creativity.
 
 ---
-
-<div align="center">
 
 # 🌐 Connect With Me
 
-<a href="https://facebook.com/jaestinn">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white"/>
-</a>
-<a href="https://instagram.com/jayszrs">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
-</a>
-<a href="https://linkedin.com/in/jayszrs">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://tiktok.com/@jayszrss">
-  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=TikTok&logoColor=white"/>
-</a>
-<a href="https://x.com/jayszrs">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white"/>
-</a>
-<a href="https://youtube.com/@jaelanisuryasaputraszrs7269">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white"/>
-</a>
-<a href="mailto:jaelanisuryasaputra@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<div align="center">
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/jaestinn)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/jayszrs)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jayszrs)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=TikTok&logoColor=white)](https://tiktok.com/@jayszrss)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/jayszrs)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@jaelanisuryasaputraszrs7269)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaelanisuryasaputra@gmail.com)
 
 </div>
 
 ---
 
-<div align="center">
-
 # 💻 Tech Stack
-
-</div>
 
 ## 🧠 Programming Languages
 
@@ -180,18 +219,30 @@
 
 ## 🎬 Design & Creative Tools
 
+![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![Adobe After Effects](https://img.shields.io/badge/Adobe_After_Effects-9999FF?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
+![Adobe Creative Cloud](https://img.shields.io/badge/Adobe_Creative_Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
+![Affinity Designer](https://img.shields.io/badge/Affinity_Designer-1B72BE?style=for-the-badge&logo=affinity-designer&logoColor=white)
+![Affinity Photo](https://img.shields.io/badge/Affinity_Photo-7E4DD2?style=for-the-badge&logo=affinity-photo&logoColor=white)
+![SketchUp](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white)
+
+## 📊 Data & Visualization
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
 
-<div align="center">
-
 # 📊 GitHub Stats
+
+<div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Jayszrs&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" height="170"/>
 
@@ -205,9 +256,9 @@
 
 ---
 
-<div align="center">
-
 # 🏆 GitHub Trophies
+
+<div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=Jayszrs&theme=dracula&no-frame=false&no-bg=false&margin-w=4"/>
 
@@ -215,9 +266,9 @@
 
 ---
 
-<div align="center">
-
 # ✍️ Random Dev Quote
+
+<div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 
@@ -225,9 +276,9 @@
 
 ---
 
-<div align="center">
-
 # 🔝 Top Contributed Repository
+
+<div align="center">
 
 <img src="https://github-contributor-stats.vercel.app/api?username=Jayszrs&limit=5&theme=dracula&combine_all_yearly_contributions=true"/>
 
@@ -235,9 +286,9 @@
 
 ---
 
-<div align="center">
-
 # 🕹️ Pixel Terminal
+
+<div align="center">
 
 <pre>
 jay@github:~$ whoami
@@ -263,9 +314,9 @@ Online, learning, building, and growing.
 
 ---
 
-<div align="center">
-
 # 🎮 Pixel Developer Mode
+
+<div align="center">
 
 <pre>
 ╔══════════════════════════════════════════════╗
