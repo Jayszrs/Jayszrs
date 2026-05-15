@@ -22,44 +22,22 @@
 
 ---
 
-# 🕹️ Pixel System Loading
+# 👾 Pixel Man Loading
 
 <div align="center">
 
-<pre>
-[ JAY SZRS SYSTEM BOOTING... ]
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=2000&pause=500&color=FFFF00&center=true&vCenter=true&width=900&lines=%E2%97%84+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2;%E2%97%84%E2%97%84+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2;%E2%97%84%E2%97%84%E2%97%84+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2;%E2%97%84%E2%97%84%E2%97%84%E2%97%84+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2;PACMAN+IS+EATING+THE+BUGS...;SYSTEM+LOADED+100%25)](https://git.io/typing-svg)
 
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100%
-
-> Initializing Developer Profile...
-> Loading Software Engineering Mode...
-> Activating Cyber Security Mindset...
-> Rendering Creative Identity...
-> Connecting to GitHub Universe...
-> Status: ONLINE
-</pre>
-
-</div>
-
----
-
-# 👾 Pixel Man Coding
-
-<div align="center">
+<br>
 
 <pre>
-        ▄▀▀▀▀▀▀▀▄
-       █  ▄   ▄  █
-       █    ▀    █
-       █  ▀▄▄▄▀  █
-        ▀▄▄▄▄▄▄▄▀
-          ██  ██
-       ███████████
-          ██  ██
-          ██  ██
-         ▄██  ██▄
-
-     PIXEL MAN IS CODING...
+╔══════════════════════════════════════════════════════╗
+║                                                      ║
+║   🟡  •   •   •   •   •   •   •   •   •   •   •     ║
+║                                                      ║
+║        PAC-MAN DEV MODE IS LOADING YOUR PROFILE      ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
 </pre>
 
 </div>
@@ -194,16 +172,6 @@ const JaySzrs = {
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-181717?style=for-the-badge&logo=gitlab&logoColor=white)
 
-## 🌐 Server & Tools
-
-![Apache](https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black)
-![Apache Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-
 ## 🔐 Cyber Security & Networking
 
 ![Cisco](https://img.shields.io/badge/Cisco-049fd9?style=for-the-badge&logo=cisco&logoColor=black)
@@ -211,32 +179,14 @@ const JaySzrs = {
 ![System Protection](https://img.shields.io/badge/System_Protection-0D1117?style=for-the-badge&logo=securityscorecard&logoColor=00ff88)
 ![Cyber Security](https://img.shields.io/badge/Cyber_Security-0D1117?style=for-the-badge&logo=kalilinux&logoColor=00ff88)
 
-## ⛓️ Blockchain & Web3
-
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchaindotcom&logoColor=white)
-![Crypto](https://img.shields.io/badge/Crypto_Builder-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)
-
 ## 🎬 Design & Creative Tools
 
-![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![Adobe After Effects](https://img.shields.io/badge/Adobe_After_Effects-9999FF?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
-![Adobe Creative Cloud](https://img.shields.io/badge/Adobe_Creative_Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
-![Affinity Designer](https://img.shields.io/badge/Affinity_Designer-1B72BE?style=for-the-badge&logo=affinity-designer&logoColor=white)
-![Affinity Photo](https://img.shields.io/badge/Affinity_Photo-7E4DD2?style=for-the-badge&logo=affinity-photo&logoColor=white)
-![SketchUp](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white)
-
-## 📊 Data & Visualization
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
 
@@ -308,28 +258,6 @@ Build digital products with code, creativity, and security.
 
 jay@github:~$ status
 Online, learning, building, and growing.
-</pre>
-
-</div>
-
----
-
-# 🎮 Pixel Developer Mode
-
-<div align="center">
-
-<pre>
-╔══════════════════════════════════════════════╗
-║              JAY SZRS DEV MODE              ║
-╠══════════════════════════════════════════════╣
-║  LVL : Informatics Student                   ║
-║  XP  : Coding + Design + Security            ║
-║  HP  : Creativity                            ║
-║  MP  : Problem Solving                       ║
-║  ATK : Software Engineering                  ║
-║  DEF : Network & System Protection           ║
-║  SPD : Content Creation                      ║
-╚══════════════════════════════════════════════╝
 </pre>
 
 </div>
